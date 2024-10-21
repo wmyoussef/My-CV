@@ -6,29 +6,33 @@ Contact Phone:
 +20-100-5292-055
 +20-155-3355-353
 
-Linkedin WEBSITE:
+### Linkedin WEBSITE:
 https://www.linkedin.com/in/wael-youssef-2a5b8733/
 
-EMAIL:
+### EMAIL:
 Wael.youssef@yahoo.com
 
-OBJECTIVE
+### OBJECTIVE
 With 24 years of experience in the oil and gas business, I have extensive knowledge and expertise as a professional geologist. Throughout my career, I have held critical jobs such as project manager and drilling engineer, as well as working as a coordination assistant for large oil and gas companies. My deep understanding of industry dynamics, along with a track record of successfully directing projects from inception to conclusion, sets me apart. I thrive on navigating the complexities of the energy sector and consistently provide results that exceed expectations. My knowledge and experience include drilling optimization analysis, hydraulic analysis, drilling programme and casing design, geology, geo-steering engineering, surface data logging, project risk management, applied fluids optimization (AFO), and monitoring specialist in both Conventional and unconventional fields. A strategic and results-driven company leader with expertise in strategy, planning, and operations. Capable of establishing and executing business plans to increase profitability, streamline operations, and ensure compliance with industry laws. A proven people leader encourages and improves employee performance and productivity. Strong leader and problem solver committed to simplifying operations to reduce costs and improve organizational efficiency. Uses independent decision-making abilities and smart judgment to enhance company success. Collaborative leaders work with teammates to foster an engaged, empowering workplace culture. Documented strengths in developing and maintaining connections with a diverse spectrum of stakeholders in dynamic, fast-paced environments
-PROFESSIONAL EXPERIENCE
-* Managing Director
+#### PROFESSIONAL EXPERIENCE
+
+### Managing Director
+
 4 years Feb. 2019 Egypt at EL-Kaian electronics group
 • Spearheaded the establishment and operational launch of the company, ensuring meticulous control over costs, timelines, and quality standards
-* Well site Geologist
+
+### Well site Geologist
 2 years Aug. 2017 to Feb. 2019 Egypt as Free consultant in GeoDrill
+
 • Conducted comprehensive testing and analysis of geological samples, ensuring accurate well log interpretation and correlation.
 • Specialized in geological analysis of electronic logs, both recorded and real-time, to optimize drilling strategies.
 • Actively engaged in drilling operations, contributing to the development and execution of geological programs.
 • Evaluated core geological properties to inform drilling decisions and enhance recovery processes.
 • Expertly identified and assessed potential petroleum gas deposits, augmenting resource exploitation.
 • Precisely determined the content and characteristics of geological samples, delivering key insights for exploration success.
-* Senior Consultant Drilling Engineer 
-3 years from Sep. 2013 to Feb. 2016 at Halliburton Energy Services, Houston Texas as 
-• Expert Applications Engineer for North American Oil and Gas sector, enhancing operational efficiency using STRESS CHECK and WELLPLAN software.
+
+### Senior Consultant Drilling Engineer 
+3 years from Sep. 2013 to Feb. 2016 at Halliburton Energy Services, Houston Texas as Expert Applications Engineer for North American Oil and Gas sector ,enhancing operational efficiency using STRESS CHECK and WELLPLAN software.
 • Developed comprehensive WellPlan models and strategic Roadmaps for Chevron's Gulf of Mexico Real-Time Operations Center (GoM RTOC).
 • Specialized in advanced well design utilizing Landmark COMPASS software, catering to diverse North American clientele.
 • Served as Halliburton's in-house Drilling Consultant for Chevron's Gulf of Mexico Business Unit in Houston, leveraging daily use of Landmark tools (Compass, StressCheck, Wellplan, WellCat) for well analysis and Geo-steering.
@@ -54,8 +58,10 @@ PROFESSIONAL EXPERIENCE
 • Played a pivotal role in the planning and enhancement of risk management infrastructures, advocating for continuous improvement.
 • Recommended effective strategies to control and minimize risks, reinforcing the organization's risk posture.
 • Diligently reviewed and drafted risk disclosures, ensuring transparent communication of market risk metrics for traded issues.
-*  Drilling Optimization & ADT 
+
+###  Drilling Optimization & ADT 
 1 year from Jan. 2013- Sep.2013 at Halliburton Energy Services, Houston Texas in BHP Billiton  
+
 Expertise in Real-Time Optimization engineering for unconventional plays, including EagleFord and Haynesville in South Texas and the Gulf of Mexico.
 • Proficient in well planning, advanced modeling, and detailed design, coupled with designing comprehensive well programs and section guidelines.
 • Adept at generating risk-adjusted cost estimates and selecting appropriate drilling equipment and materials.
@@ -63,7 +69,7 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Served as an INSITE Specialist, managing Surface Data Logging operations from 2000-2016.
 • Conducted Whirl Sensitivity Analysis to mitigate vibration risks and identify critical RPMs.
 • Implemented hydraulic programs for precise calculation of expected Equivalent Circulating Density (ECD) and flow rates for efficient hole cleaning.
-•Calculated and modeled Torque and Drag for various tools and hole sections, ensuring operational integrity.
+• Calculated and modeled Torque and Drag for various tools and hole sections, ensuring operational integrity.
 • Predicted swab and surge effects to optimize drilling operations and prevent wellbore issues.
 • Monitored Pressure While Drilling (PWD) and Measurement While Drilling (MWD) tools for real-time ECD analysis and hole cleaning recommendations.
 • Evaluated Drill String vibration severity using DDS data, providing actionable insights for vibration mitigation.
@@ -74,10 +80,11 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Optimized drilling performance to prevent issues such as flow, motor stalling, gumbo attacks, pore pressure ramps, hole stability, and excessive dogleg severity.
 • Engaged in proactive well intervention, encompassing observation, recommendation, reaction, and reporting to maintain well integrity and performance.
 • Developed drilling BHA and bit selection strategies, including MWD motors , for efficient drilling of build-up and horizontal sections in EagleFord and Haynesville.
-*  Drilling Optimization & ADT 
-1 year from Jan.2012 -Dec. 2012 at Halliburton Energy Services, Houston Texas in Shell Houston
-•  Expertise in Real-Time Optimization engineering deep water drilling, at Gulf of Mexico. French Guiana Deep water explorations & Nigeria deep water activities  
 
+###  Drilling Optimization & ADT 
+1 year from Jan.2012 -Dec. 2012 at Halliburton Energy Services, Houston Texas in Shell Houston
+
+•  Expertise in Real-Time Optimization engineering deep water drilling, at Gulf of Mexico. French Guiana Deep water explorations & Nigeria deep water activities  
 • Proficient in daily well drilling monitoring and operational oversight.
 • Executed Whirl Sensitivity Analysis to mitigate vibration and manage critical RPMs.
 • Utilized advanced Hydraulics programs to optimize ECD calculations and determine flow rates for efficient hole cleaning.
@@ -97,8 +104,9 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Executed well intervention strategies with a proactive observe-recommend-react-report approach.
 • Pioneered the migration of RTOC knowledge and tools to establish the RTOC Center in Shell Houston as a key achievement.
 
-* Drilling Optimization Monitor & ADT Monitor 
+### Drilling Optimization Monitor & ADT Monitor 
 5 years Jul. 2006 -Dec. 2011 at Halliburton Energy Services, Brunei Darussalam in Shell Brunei
+
 • Proficient as an INSITE Software Specialist in Surface Data Logging (2000-2016).
 • Expertise in daily monitoring of well drilling operations.
 • Conducted Whirl Sensitivity Analysis to mitigate vibration and avoid critical RPMs.
@@ -114,8 +122,10 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Calculated drilling run performance metrics using MAX Activity to enhance operational efficiency.
 • Proactively monitored and optimized drilling performance to prevent issues such as flow inconsistencies, motor stalling, gumbo attacks, pore pressure ramps, hole instability, and excessive dogleg severity.
 • Conducted well interventions with a systematic approach: observe, recommend, react, and report. For lesson learned and for evaluate services provided .
-* Coordinator Assistant 
+
+### Coordinator Assistant 
 6-month Jan. 2006 – Jun. 2006 at Halliburton Energy Services, Sultanate of Oman • Spearheaded company and public sector operational management.
+
 • Supervised comprehensive service delivery and distribution logistics, including packaging, route planning, and shipping.
 • Directed sales and pricing strategies to optimize profitability.
 • Analyzed and enhanced productivity and cost-efficiency metrics.
@@ -135,7 +145,7 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Administered staff management, including work schedules and duty assignments.
 • Managed logistics and supply chain operations for production facilities.
 
-* Well site Geologist 
+### Well site Geologist 
 4 years Jan. 2000 – Jun. 2006 at Halliburton Energy Services, Sultanate of Oman 
 
 • Expertise in INSITE software, Unix, and Surface Data Logging applications from 2000 to 2016.
@@ -156,8 +166,9 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Participated in a range of surveys and field trips, including geological, geophysical, and hydrographic studies, as well as underground mine survey programs.
 • Utilized aerial photographs, well logs, and section descriptions to plot and integrate information.
 
-* Mud Logger 
+### Mud Logger 
 5 years from Dec. 1994 – Dec. 1999 at Halliburton Energy Services, Egypt, Kazakhstan 
+
 • Expertly collected and managed well samples and drilling data.
 • Vigilantly monitored gas levels, pressure, and drilling parameters.
 • Conducted thorough testing and analysis of geological samples.
@@ -175,16 +186,13 @@ Expertise in Real-Time Optimization engineering for unconventional plays, includ
 • Participated in a range of geological and geophysical surveys, contributing to diverse field studies.
 • Interpreted information from aerial photographs, well logs, and other databases to inform geological insights.
 
-EDUCATION 
+## EDUCATION 
 • BSC IN GEOLOGY FROM ASYUT UNIVERSITY, EGYPT.1993
-LANGUAGES: 
+## LANGUAGES: 
 Arabic at native or bilingual proficiency
 English at full professional proficiency
 German at elementary proficiency
-
-
-
-PROFESSIONAL TRAINING COURSES AND CERTIFICATES:
+### PROFESSIONAL TRAINING COURSES AND CERTIFICATES:
 Proficient in DIMS LANDMARK 
 •	WELLCAT™ Software (for casing & tube design challenges) Training Courses and Certificates ON 10-01-2014 by landmark-Halliburton
 •	StressCheck™ Software (for Safe and cost-effective casing designs) Training Courses and Certificates ON 05-02-2014 by landmark-Halliburton
@@ -202,11 +210,11 @@ Proficient in DIMS LANDMARK
 •	Geo-steering class on 2011 by Sperry-Sun & Landmark-Halliburton
 •	AFO (Applied Fluid Optimization ) class in 5-16-2014 by Baroid –Halliburton 
 
-REFERENCES:
-Emontugha.Zuokumor@Halliburton.com
-shiblee.hashem@yahoo.com
-ryan.eisenbath@gmail.com
-Adriana.Murillo@Halliburton.com
+### REFERENCES:
+## Emontugha.Zuokumor@Halliburton.com
+## shiblee.hashem@yahoo.com
+## ryan.eisenbath@gmail.com
+## Adriana.Murillo@Halliburton.com
 
 
 
